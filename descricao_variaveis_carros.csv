@@ -1,0 +1,18 @@
+Coluna (variável),Tipo da variável,Descrição
+id,Quantitativa Discreta,Número identificador único para cada carro.
+nome_carro,Qualitativa Nominal,Nome do modelo ou versão do carro.
+marca,Qualitativa Nominal,"Marca do veículo (ex: Ford, Hyundai)."
+modelo,Qualitativa Nominal,"Modelo do carro (ex: i20, Wagon R)."
+preco_novo,Qualitativa Nominal,"Informação textual sobre o preço do carro novo, incluindo intervalos."
+custo_minimo,Quantitativa Contínua,"Menor valor do carro novo, em unidades monetárias."
+custo_maximo,Quantitativa Contínua,"Maior valor do carro novo, em unidades monetárias."
+idade_veiculo,Quantitativa Discreta,Idade do veículo em anos.
+km_dirigidos,Quantitativa Discreta,Quilometragem do carro (distância total percorrida).
+tipo_vendedor,Qualitativa Categórica,"Categoria do vendedor (ex: revendedor, particular)."
+tipo_combustivel,Qualitativa Categórica,"Tipo de combustível usado (ex: Gasolina, Diesel)."
+tipo_transmissao,Qualitativa Categórica,Tipo de transmissão (Manual ou Automática).
+milhagem,Quantitativa Contínua,Consumo médio de combustível (ex: km/l).
+motor,Quantitativa Discreta,Capacidade volumétrica do motor em centímetros cúbicos (cc).
+poder_maximo,Quantitativa Contínua,Potência máxima do motor em cavalos-vapor (CV).
+assentos,Quantitativa Discreta,Número de assentos no veículo.
+preco_venda,Quantitativa Discreta,"Preço de venda do veículo usado, em unidades monetárias."
