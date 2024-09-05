@@ -12,7 +12,7 @@ tipo_vendedor,Qualitativa Categórica,"Categoria do vendedor (ex: revendedor, pa
 tipo_combustivel,Qualitativa Categórica,"Tipo de combustível usado (ex: Gasolina, Diesel)."
 tipo_transmissao,Qualitativa Categórica,Tipo de transmissão (Manual ou Automática).
 milhagem,Quantitativa Contínua,Consumo médio de combustível (ex: km/l).
-motor,Quantitativa Discreta,Capacidade volumétrica do motor em centímetros cúbicos (cc).
+motor,Quantitativa Contínua,Capacidade volumétrica do motor em centímetros cúbicos (cc).
 poder_maximo,Quantitativa Contínua,Potência máxima do motor em cavalos-vapor (CV).
 assentos,Quantitativa Discreta,Número de assentos no veículo.
-preco_venda,Quantitativa Discreta,"Preço de venda do veículo usado, em unidades monetárias."
+preco_venda,Quantitativa Contínua,"Preço de venda do veículo usado, em unidades monetárias."
